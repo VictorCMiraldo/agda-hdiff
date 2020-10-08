@@ -1,0 +1,3 @@
+name: agda-hdiff
+depend: standard-library
+include: .
